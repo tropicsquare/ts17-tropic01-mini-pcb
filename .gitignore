@@ -1,0 +1,6 @@
+ts17-tropic01-mini-backups/*
+ts17-tropic01-mini.kicad_prl
+fp-info-cache
+*.lck
+*.swp
+
