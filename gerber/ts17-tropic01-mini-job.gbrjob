@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.5+1"
     },
-    "CreationDate": "2025-11-07T10:47:30+01:00"
+    "CreationDate": "2025-11-07T12:29:22+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -49,8 +49,18 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "ts17-tropic01-mini-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "ts17-tropic01-mini-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ts17-tropic01-mini-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {

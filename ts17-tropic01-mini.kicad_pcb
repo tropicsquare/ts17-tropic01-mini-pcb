@@ -112,9 +112,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber")
 		)
 	)
 	(net 0 "")
@@ -2593,13 +2593,13 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "+"
-		(at 142.3 100.4 90)
+	(gr_text "VCC"
+		(at 140.35 100.35 0)
 		(layer "F.SilkS")
 		(uuid "b5c16a30-4402-4c6a-8b5d-bb200d0fb25c")
 		(effects
 			(font
-				(size 1 1)
+				(size 1 0.8)
 				(thickness 0.15)
 			)
 			(justify left bottom)
