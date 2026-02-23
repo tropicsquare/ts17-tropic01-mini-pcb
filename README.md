@@ -24,7 +24,7 @@ The ultimately small board for any purpose. Just control pins with power pins an
  - Number of cu layers: 2
  - Board Thickness: 1.0
  - Core: FR4
- - Size: 14 x 12 mm
+ - Size: 15.24 x 12 mm
  - Mask: Blue
  - Silkscreen: Yes (TOP)
  - Castellated holes
