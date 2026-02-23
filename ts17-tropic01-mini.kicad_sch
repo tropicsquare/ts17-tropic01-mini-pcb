@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "TROPIC01 integration board \"mini\"")
-		(date "2025-11-07")
-		(rev "TS1701")
+		(date "2026-02-23")
+		(rev "TS1702")
 	)
 	(lib_symbols
 		(symbol "Conn_01x04_Socket_1"
